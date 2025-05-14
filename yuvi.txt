@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 this is my example text
 
 new change
+=======
+>>>>>>> parent of 1e278c9 (Update yuvi.txt)
